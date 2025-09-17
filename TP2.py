@@ -2,11 +2,10 @@ import random
 
 nb_aleatoire = random.randint(1, 100)
 
-debut = input("bonjour, desirez vous commencer le jeu?")
+nb_choisi = -1
 
+while nb_aleatoire != nb_choisi:
 
-
-if debut == "oui":
     nb_choisi = input("choisissez un nombre de 1 a 100")
 
     if nb_choisi < str(100):
@@ -16,7 +15,5 @@ if debut == "oui":
         print("meilleure chance la prochaine fois")
 
     else:
-        print("bravo! desirez vous jouez une autre partie?")
-
-else:
-    print("au revoir")
+        continu=input("bravo!")
+fin = input("desirez vous jouez une autre partie?")
