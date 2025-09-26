@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3be770-35db-4f51-85a9-148b3e7993c1" name="Changes" comment="avancement ddans le code">
+    <list default="true" id="1e3be770-35db-4f51-85a9-148b3e7993c1" name="Changes" comment="avancement dans le code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,11 +83,28 @@
       <option name="project" value="LOCAL" />
       <updated>1757535692856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="avancement dans le code">
+      <option name="closed" value="true" />
+      <created>1758133198901</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758133198901</updated>
+    </task>
+    <task id="LOCAL-00004" summary="avancement dans le code">
+      <option name="closed" value="true" />
+      <created>1758133218268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758133218268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="avancement ddans le code" />
-    <option name="LAST_COMMIT_MESSAGE" value="avancement ddans le code" />
+    <MESSAGE value="avancement dans le code" />
+    <option name="LAST_COMMIT_MESSAGE" value="avancement dans le code" />
   </component>
 </project>
